@@ -25,3 +25,8 @@ variable "num_webs" {
   default     = "1"
 }
 
+variable "machine_type" {
+}
+
+variable "ami" {
+}
